@@ -1,0 +1,10 @@
+C:\Carlos\Programas\Color\ColorToBlackAndWhiteImage\bin\Debug\ColorToBlackAndWhiteImage.exe.config
+C:\Carlos\Programas\Color\ColorToBlackAndWhiteImage\bin\Debug\ColorToBlackAndWhiteImage.exe
+C:\Carlos\Programas\Color\ColorToBlackAndWhiteImage\bin\Debug\ColorToBlackAndWhiteImage.pdb
+C:\Carlos\Programas\Color\ColorToBlackAndWhiteImage\obj\Debug\ColorToBlackAndWhiteImage.csprojAssemblyReference.cache
+C:\Carlos\Programas\Color\ColorToBlackAndWhiteImage\obj\Debug\ColorToBlackAndWhiteImage.Form1.resources
+C:\Carlos\Programas\Color\ColorToBlackAndWhiteImage\obj\Debug\ColorToBlackAndWhiteImage.Properties.Resources.resources
+C:\Carlos\Programas\Color\ColorToBlackAndWhiteImage\obj\Debug\ColorToBlackAndWhiteImage.csproj.GenerateResource.cache
+C:\Carlos\Programas\Color\ColorToBlackAndWhiteImage\obj\Debug\ColorToBlackAndWhiteImage.csproj.CoreCompileInputs.cache
+C:\Carlos\Programas\Color\ColorToBlackAndWhiteImage\obj\Debug\ColorToBlackAndWhiteImage.exe
+C:\Carlos\Programas\Color\ColorToBlackAndWhiteImage\obj\Debug\ColorToBlackAndWhiteImage.pdb
